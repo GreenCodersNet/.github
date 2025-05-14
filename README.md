@@ -1,4 +1,3 @@
-About GreenCoders
 GreenCoders is a Romanian software innovation company dedicated to crafting intelligent, sustainable, and human-centric automation solutions. Founded by three passionate technologists, our mission is to revolutionize the digital landscape through innovation, sustainability, and collaboration.
 
 🌱 Our Mission
